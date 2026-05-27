@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-groq
+langchain-community
+fastapi
+uvicorn
+streamlit
+tavily-python
+python-dotenv
+requests

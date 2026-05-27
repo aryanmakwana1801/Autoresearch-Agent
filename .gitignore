@@ -1,0 +1,34 @@
+# Virtual Environments (Local packages)
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Private Credentials (CRITICAL: NEVER COMMIT SECRETS)
+.env
+.env.local
+.env.*
+*.env
+
+# Python Caches & Compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# System & OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
